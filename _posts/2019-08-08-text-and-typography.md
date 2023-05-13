@@ -1,8 +1,8 @@
 ---
 title: Text and Typography
-author: cotes
+author: heesu
 date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
+categories: [a, yaho]
 tags: [typography]
 pin: true
 math: true
