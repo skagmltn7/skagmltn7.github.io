@@ -20,7 +20,11 @@
     <div class="site-title">
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
     </div>
-    <div class="site-subtitle fst-italic">{{ site.tagline }}</div>
+    <div class="site-subtitle fst-italic">{{ site.tagline }}
+      <div>
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fskagmltn7.github.io&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false"/>            
+      </div>
+    </div>
   </div>
   <!-- .profile-wrapper -->
 
@@ -46,8 +50,7 @@
     {% endfor %}
   </ul>
   <!-- ul.nav.flex-column -->
-
-  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
+  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">                       
     {% unless site.theme_mode %}
       <button class="mode-toggle btn" aria-label="Switch Mode">
         <i class="fas fa-adjust"></i>
