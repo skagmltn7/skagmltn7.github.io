@@ -11,7 +11,7 @@ order: 4
   </picture>
   <br/><br>
 
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hisue7">
+<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hisue7">
 
 <br>
 
