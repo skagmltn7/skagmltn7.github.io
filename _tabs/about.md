@@ -11,6 +11,10 @@ order: 4
   </picture>
   <br/><br>
 
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hisue7">
+
+<br>
+
 <a href="https://skagmltn7.github.io">
   <img src="https://img.shields.io/badge/Blog-0000FF?style=flat-square&logo=buymeacoffee&logoColor=white"/> 
 </a>
@@ -33,9 +37,9 @@ order: 4
  Tool
  <br>
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-
-
+<a href="https://github.com/skagmltn7">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</a>
 
 
 </div>
