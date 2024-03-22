@@ -100,7 +100,7 @@ Collection의 핵심 인터페이스로는 `List, Set`이 있고 관련된 인�
 - 해싱 기법으로 데이터를 저장하고 데이터에 접근한다.<br>
 
 ### hashing<br>
-<img src="https://user-images.githubusercontent.com/133394749/242412119-7182f3b5-8c48-48dc-80a5-f20fdd42aacf.jpg" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/133394749/242412119-7182f3b5-8c48-48dc-80a5-f20fdd42aacf.jpg" width="50%" height="50%" alt="">
 <br>
 키를 해시함수을 통해 해시코드(해시테이블의 인덱스)를 생성하여 해시테이블(배열 + 링크드리스트)에 저장한다.<br><br>
 
