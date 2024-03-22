@@ -14,10 +14,6 @@ order: 4
 <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hisue7" alt="">
 
 <br>
-
-<a href="https://skagmltn7.github.io">
-  <img src="https://img.shields.io/badge/Blog-0000FF?style=flat-square&logo=buymeacoffee&logoColor=white" alt=""/> 
-</a>
 <a href="mailto:skagmltn7@ajou.ac.kr">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt=""/> 
 </a>
