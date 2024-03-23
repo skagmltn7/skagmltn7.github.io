@@ -9,14 +9,14 @@ tags: [번역]
 ## 1. 프로젝트 동기
 오픈소스를 수강하면서 다양한 오픈 소스를 실습할 수 있었다. 사실 오픈소스 수업을 수강하기 전까지 git이나 linux와 같은 정말 기본적인 오픈소스만 사용할 줄 알았다. 기말프로젝트를 진행하는 것에 있어 다른 오픈소스 강좌나 팁같은 동영상을 만들기에는 내가 친숙하고 사용할 줄 아는 오픈소스의 수가 적었기에 그나마 내가 기여할 수 있는 오픈소스 번역을 선택하게 되었다. 그 중에서도 어떤 오픈소스가 있는지 찾아보다가 예전에 교환학생 친구들과 비대면에 대해서 대화하다가 들은 적이 있었던 opendedX선택하였다. openedX를 번역하는 데에도 다양한 선택지가 있었는데 release항목을 선택하게 되었다. 처음에는 release를 지원하는 프레임워크 중 지난 학기에 사용해본 적이 있는 Koa를 선택하였다. 그런데 프로젝트를 진행하면서 openedX 홈페이지 release관련을 살펴보다가 현재 release하는 버전은 lilac뿐인 것을 알고 프로젝트 주제를 openedX-release-lilac.js로 결정하였다. 번역은 transifex에서 지원하는 <https://www.transifex.com/open-edx/open-edx-releases/release-lilac-js/>에서 진행하였다.
 ## 2. OpenedX
-<img src="https://git.ajou.ac.kr/Heesu/foss-final/-/raw/main/openedx-2021-logo.png">
+<img src="https://git.ajou.ac.kr/Heesu/foss-final/-/raw/main/openedx-2021-logo.png" alt="">
 현재 코로나 상황에서 비대면에 알맞는 오픈소스로 전세계 어디에서든 해외의 대학 강의를 들을 수 있고 다른 수강생들과 교류할 수 있는 교육용 오픈소스이다. 무료로 공개된 강의와 구매해야하는 강의가 있으며 openedX 플랫폼 내에서 시험, 토론 등을 진행할 수 있다. 강의를 모두 수강하면 수료증을 발급받을 수 있어 열린 교육 목적에 알맞는 오픈소스라 할 수 있다.  
 
 ## 3. 번역 정도
 일단 제일 먼저 한국어로 번역되지 않은 untranslated 항목들 부터 최우선적으로 번역하였으며, 번역 하기전 untranslated는 총 735 strings이었으며 번역 후 untranslated는 총 89strings이었다.  
 아래 이미지는 내가 openedX-release-lilac.js를 번역한 words와 sritngs를 보여준다.
 
-><img src="https://git.ajou.ac.kr/Heesu/foss-final/-/raw/main/After/after_translation.PNG">
+> <img src="https://git.ajou.ac.kr/Heesu/foss-final/-/raw/main/After/after_translation.PNG" alt = "">
 >
 ***총 639 strings / 5337 words***를 한국어로 번역하였다.  
 
