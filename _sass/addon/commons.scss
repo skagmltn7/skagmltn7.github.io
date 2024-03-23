@@ -521,7 +521,7 @@ main {
   background: var(--img-bg);
 
   &::before {
-    content: '';
+    //content: '';
     display: none;
     position: absolute;
     background: var(--shimmer-bg);
