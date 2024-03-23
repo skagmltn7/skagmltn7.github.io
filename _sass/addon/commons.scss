@@ -522,6 +522,7 @@ main {
 
   &::before {
     content: '';
+    display: none;
     position: absolute;
     background: var(--shimmer-bg);
     height: 100%;
