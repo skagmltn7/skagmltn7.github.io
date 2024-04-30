@@ -1093,7 +1093,7 @@ search {
   display: none;
   font-size: 1.1rem;
   font-weight: 600;
-  font-family: 'Nanum Gothic';
+  font-family: 'Nanum Gothic', sans-serif;
   color: var(--topbar-text-color);
   text-align: center;
   width: 70%;
@@ -1193,7 +1193,7 @@ search {
   }
 
   .toast-body {
-    font-family: 'Nanum Gothic';
+    font-family: 'Nanum Gothic', sans-serif;
     line-height: 1.25rem;
 
     button {
