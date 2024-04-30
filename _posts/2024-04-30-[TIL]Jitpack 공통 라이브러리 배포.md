@@ -6,7 +6,7 @@ categories: [TIL]
 tags: [java, library, jitpack]
 ---
 
-- [우리 서버끼리 비동기 통신을 위한 **ApiClient**](#우리-서버끼리-비동기-통신을-위한-ApiClient)
+- [우리 서버끼리 비동기 통신을 위한 ApiClient](#우리-서버끼리-비동기-통신을-위한-ApiClient)
 - [Redis의 데이터 조회, 삽입하는 RedisUtils](#Redis의-데이터-조회-삽입하는-RedisUtils)
 - [ResponseEntityFactory](#ResponseEntityFactory)
 
@@ -44,7 +44,7 @@ If you want your library to be available to the world, there is no need to go th
 
 ---
 
-### 우리 서버끼리 비동기 통신을 위한 **ApiClient**
+### 우리 서버끼리 비동기 통신을 위한 ApiClient
 
 - **GET method**
 
