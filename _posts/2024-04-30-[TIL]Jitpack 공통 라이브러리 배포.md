@@ -6,10 +6,6 @@ categories: [TIL]
 tags: []
 ---
 
-- [서버 비동기 통신을 위한 ApiClient](#서버-비동기-통신을-위한-ApiClient)
-- [데이터 조회 삽입하는 RedisUtils](#데이터-조회-삽입하는-RedisUtils)
-- [ResponseEntityFactory](#ResponseEntityFactory)
-
 ## 오늘 진행한 작업
 
 ### 🎉완료
