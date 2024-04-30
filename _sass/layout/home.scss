@@ -1,6 +1,7 @@
 /*
   Style for Homepage
 */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
 
 #post-list {
   margin-top: 2rem;
@@ -85,7 +86,7 @@
 
 .pagination {
   color: var(--text-color);
-  font-family: Lato, sans-serif;
+  font-family: 'Nanum Gothic';
   justify-content: space-evenly;
 
   a:hover {
