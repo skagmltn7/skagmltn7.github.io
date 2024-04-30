@@ -3,11 +3,11 @@ title: "[TIL]Jitpack 공통 라이브러리 배포"
 author: heesu
 date: 2024-04-30 19:12:00+0900
 categories: [TIL]
-tags: [java, library, jitpack]
+tags: []
 ---
 
-- [서버끼리 비동기 통신을 위한 ApiClient](#서버끼리-비동기-통신을-위한-ApiClient)
-- [Redis의 데이터 조회, 삽입하는 RedisUtils](#Redis의-데이터-조회-삽입하는-RedisUtils)
+- [서버 비동기 통신을 위한 ApiClient](#서버-비동기-통신을-위한-ApiClient)
+- [데이터 조회 삽입하는 RedisUtils](#데이터-조회-삽입하는-RedisUtils)
 - [ResponseEntityFactory](#ResponseEntityFactory)
 
 ## 오늘 진행한 작업
@@ -44,7 +44,7 @@ If you want your library to be available to the world, there is no need to go th
 
 ---
 
-### 서버끼리 비동기 통신을 위한 ApiClient
+### 서버 비동기 통신을 위한 ApiClient
 
 - **GET method**
 
@@ -106,7 +106,7 @@ If you want your library to be available to the world, there is no need to go th
 
 
 
-### Redis의 데이터 조회, 삽입하는 RedisUtils
+### 데이터 조회 삽입하는 RedisUtils
 
 - 마찬가지로 모든 서버에서는 redis에 접근한다. 이를 하나로 통합하면 key를 설정하기도 편해 구현해보았다.
 
