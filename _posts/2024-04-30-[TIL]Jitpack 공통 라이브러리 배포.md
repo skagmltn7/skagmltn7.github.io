@@ -6,13 +6,15 @@ categories: [TIL]
 tags: []
 ---
 
+  * [서버 비동기 통신을 위한 ApiClient](#서버-비동기-통신을-위한-apiclient)
+  * [데이터 조회 삽입하는 RedisUtils](#데이터-조회-삽입하는-redisutils)
+  * [ResponseEntityFactory](#responseentityfactory)
+  
 ## 오늘 진행한 작업
 
 ### 🎉완료
 
-- Jitpack 으로 이번 프로젝트에서 사용할 공통 라이브러리 배포
-
-https://jitpack.io/#SamsungSignature/signature-common
+- [Jitpack](https://jitpack.io/#SamsungSignature/signature-common) 으로 이번 프로젝트에서 사용할 공통 라이브러리 배포
 
 ## 발생한 ISSUE 및 해결 방법
 
